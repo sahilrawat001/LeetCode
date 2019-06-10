@@ -14,4 +14,4 @@
 
 |    ID    |                      Title            |    Difficulty    |     C++    |    Python    |    Blog    |
 |    :---:  |                   :----------:       |    :---:            |  :----:       |    :---:         |  :----:       |
-|    2     |            Add Two Number             | Easy             |    [C++](https://github.com/Jessey0925/LeetCode/blob/master/Linked%20List/2.Add%20Two%20Numbers/Add%20Two%20Numbers.cpp)         |   [Python](https://github.com/Jessey0925/LeetCode/blob/master/Linked%20List/2.Add%20Two%20Numbers/Add%20Two%20Numbers.py)   |[思路讲解](https://www.cnblogs.com/Jessey-Ge/p/10943980.html)|
+|    2     |            Add Two Number             |     Medium         |    [C++](https://github.com/Jessey0925/LeetCode/blob/master/Linked%20List/2.Add%20Two%20Numbers/Add%20Two%20Numbers.cpp)         |   [Python](https://github.com/Jessey0925/LeetCode/blob/master/Linked%20List/2.Add%20Two%20Numbers/Add%20Two%20Numbers.py)   |[思路讲解](https://www.cnblogs.com/Jessey-Ge/p/10943980.html)|
